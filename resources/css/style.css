@@ -24,12 +24,20 @@ h3  {
     font-size: 14px;
   }
 
+/*unvisited link */
+a:link{
+  color:white;
+  font-size: 18px;
+}
+
+/*addresses a class */
 .header {
   font-size: 18px;
   color: white;
   background-image: url("../images/the-flatiron-building.png");
 }
 
+/*addresses an ID */
 #Subsection {
   font-size: 23px;
   font-weight: bold;
